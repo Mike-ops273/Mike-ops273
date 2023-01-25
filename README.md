@@ -1,6 +1,6 @@
 # Hello 
 
-I'm Mike. These are my languages and tools: 
+I'm Mike. These are my favorite languages and tools: 
 
 
 <!--
