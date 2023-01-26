@@ -1,9 +1,8 @@
 # Hello
 
 ### I'm Mike, software developer and volunteer fireman.<br> Sometimes I fix a bug and create two more 👍.
+<br>
 
-<br>
-<br>
 
 ## Technologies
 
