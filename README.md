@@ -15,6 +15,7 @@ These are my favorite languages and tools:
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> 
+<img align="left" alt="Mongoose" width="40px" style="padding-right:10px; padding-top:7px;" src="https://raw.githubusercontent.com/Automattic/mongoose/8d9df24c1f4696d56a4c7d240d5bcedf6a008154/docs/images/mongoose.svg" />
 <br>
 <br>
 
