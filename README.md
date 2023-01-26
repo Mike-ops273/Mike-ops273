@@ -31,8 +31,8 @@ The technologies I have worked with:
 <br>
 
 <br>
-<br>
 
+## Stats
 ![Mike-ops273 GitHub stats](https://github-readme-stats.vercel.app/api?username=Mike-ops273&show_icons=true&theme=transparent)
 
 <br>
