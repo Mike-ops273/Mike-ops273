@@ -1,6 +1,6 @@
 # Hello
 
-### I'm Mike, junior dev / sysadmin and volunteer fireman.<br> Sometimes I fix a bug and create two more 👍.
+### I'm Mike, sysadmin / junior dev and volunteer fireman.<br> Sometimes I fix a bug and create two more 👍.
 
 <br>
 
