@@ -1,6 +1,7 @@
 # Hello
 
-### I'm Mike, software developer and volunteer fireman.<br> Sometimes I fix a bug and create two more 👍.
+### I'm Mike, junior dev / sysadmin and volunteer fireman.<br> Sometimes I fix a bug and create two more 👍.
+
 <br>
 
 ## Technologies
@@ -20,7 +21,7 @@ These are my favorite languages and tools:
 <br>
 <br>
 
-The technologies I have worked with: 
+The technologies I have worked with:
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
 <img align="left" alt="Chakra" width="70px" style="padding-right:10px; padding-top:6px;" src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/d1d45828726e28d71deb19ea01472cf161a12be6/media/logo-black.svg" />
@@ -28,18 +29,19 @@ The technologies I have worked with:
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-
 <br>
 <br>
 
 <br>
 
 ## Stats
+
 ![Mike-ops273 GitHub stats](https://github-readme-stats.vercel.app/api?username=Mike-ops273&show_icons=true&theme=transparent)
 
 <br>
 
 ## Visitors
+
 ![Visitor Count](https://profile-counter.glitch.me/Mike-ops273/count.svg)
 
 <!--
