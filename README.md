@@ -36,7 +36,8 @@ The technologies I have worked with:
 
 ## Stats
 
-![Mike-ops273 GitHub stats](https://github-readme-stats.vercel.app/api?username=Mike-ops273&show_icons=true&theme=transparent)
+![Mike-ops273 GitHub stats](https://github-readme-stats-beta-eight-84.vercel.app
+/api?username=Mike-ops273&show_icons=true&theme=transparent)
 
 <br>
 
