@@ -36,10 +36,9 @@ The technologies I have worked with:
 
 ## Stats
 
-![Mike-ops273 GitHub stats](https://github-readme-stats.vercel.app/api?username=Mike-ops273&show_icons=true&theme=transparent) 
+![Mike-ops273 GitHub stats](https://github-readme-stats.vercel.app/api?username=Mike-ops273&show_icons=true&theme=transparent)
 
-![Mike-ops273 GitHub stats](http://github-readme-stats-mu-flame-79.vercel.app//api?username=Mike-ops273&show_icons=true&theme=transparent) 
-
+![Mike-ops273 GitHub stats](http://github-readme-stats-mu-flame-79.vercel.app//api?username=Mike-ops273&show_icons=true&theme=transparent)
 
 <br>
 
