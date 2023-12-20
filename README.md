@@ -44,7 +44,6 @@ The technologies I have worked with:
 
 ## Visitors
 
-...
 ![Visitor Count](https://profile-counter.glitch.me/Mike-ops273/count.svg)
 
 <!--
